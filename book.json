@@ -1,0 +1,23 @@
+{
+  "gitbook": "3.2.3",
+  "title": "델파이 문서",
+  "description": "델파이 설명서",
+  "structure": {
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "prism@2.0.0",
+    "-highlight",
+    "advanced-emoji",
+    "codeblock-disable-glossary",
+    "collapsible-chapters",
+    "anchors",
+    "todo"
+  ],
+  "search": {
+    "maxIndexSize": 1000000000
+  },
+  "pluginsConfig": {
+    "collapsible-chapters":{}
+  }
+}
