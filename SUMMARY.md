@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
-* [델파이 교육서](README.md)
-* [What is Delphi?]()
-* [델파이를 정리하자]()
+* [데브기어 교육 정리](README.md)
+* [델파이 기초 교육](devgear.md)
+* [델파이 윈도우 프로그래밍 \(4일\)](untitled-1.md)
+
