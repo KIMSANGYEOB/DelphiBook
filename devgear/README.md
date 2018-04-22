@@ -32,13 +32,16 @@ description: 데브기어 C++ 빌더 기초교육 델파이 기초 (2일)
 
 ## 2018-04-04 \(2일차\)
 
-* **O.O.P 객체지향 코딩**
+### 2. 문법 및 개념
 
+* **O.O.P 객체지향 코딩**
   * **상속\(Inheritance\)**
   * **다형성\(Polymorphism\)**
   * **캡슐화\(Encapsulation\)**
   * **추상화\(Abstraciton\)**
-
+* **Virtual**
+* **Dynamic**
+* **Override**
 * **Inline**
 * **Call By Value**
 * **Call By Reference**
@@ -54,6 +57,5 @@ description: 데브기어 C++ 빌더 기초교육 델파이 기초 (2일)
   * **생성자** : A” := TA”.Create
   * A”
   * **파괴자 **A”.Free -&gt; Destory
-
-
+* **컴포넌트의 구분 기준**
 
