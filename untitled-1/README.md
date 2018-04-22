@@ -37,3 +37,17 @@ description: 다양한 컴포넌트에 대해 배우며 상황에 따른 사용�
 * **MainForm -&gt; onCreate **\(초기처리\)
 * **MainForm -&gt; close **\(마무리처리\)
 
+## 2018-04-19 \(3일차\)
+
+### 1. 화면의 초기처리
+
+* **OnCreate** \(메모리 할당하고 만들고 난 바로 후\)
+* **OnShow** \(화면이 보여질때\)
+* **OnActive** \(Focusing 왔을때\)
+
+## 2018-04-20 \(4일차\)
+
+### 1. 오류 처리
+
+* Exception Class
+

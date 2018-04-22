@@ -45,6 +45,7 @@ description: 데브기어 C++ 빌더 기초교육 델파이 기초 (2일)
 * **Inline**
 * **Call By Value**
 * **Call By Reference**
+* **Property**
 * **범위**
   * private
   * strict private
