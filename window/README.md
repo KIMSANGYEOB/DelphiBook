@@ -42,6 +42,9 @@ description: 다양한 컴포넌트에 대해 배우며 상황에 따른 사용�
 ### 1. 오류 처리
 
 * **Exception Class**
+
+### 2. Rubby Frame Make
+
 * **Rubby Program**
 
 ## 2018-04-20 \(4일차\)
